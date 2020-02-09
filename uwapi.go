@@ -2,7 +2,7 @@ package uwapi
 
 import (
 	"fmt"
-	"github.com/Jeffail/gabs"
+	"github.com/Jeffail/gabs/v2"
 	"io/ioutil"
 	"net/http"
 	"strings"
