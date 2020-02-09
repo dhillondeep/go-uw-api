@@ -1,4 +1,4 @@
-module uw-api.go
+module github.com/dhillondeep/go-uw-api 
 
 go 1.13
 
